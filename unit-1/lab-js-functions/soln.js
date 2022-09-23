@@ -1,3 +1,8 @@
+// JS Functions Lab Submission
+// Saad Khan
+// Sep 23 2022
+// General Assembly - SEI-TOR -55
+
 // 1.
 function maxOfTwoNumbers(x, y) {
 	return x >= y ? x : y;

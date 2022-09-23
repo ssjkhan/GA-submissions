@@ -1,3 +1,8 @@
+// JS Arrays Lab Submission
+// Saad Khan
+// Sep 23 2022
+// General Assembly - SEI-TOR -55
+
 /*
 Exercise 1:
   - Define an empty array named foods
