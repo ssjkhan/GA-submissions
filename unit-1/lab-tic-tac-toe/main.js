@@ -4,6 +4,7 @@ const n = board.length;
 const cells = document.querySelectorAll("td");
 const xTurn = "X";
 const oTurn = "O";
+const turnDisplay = document.getElementById("playerTurn");
 let playerTurn = xTurn;
 let gameState;
 let xScore;
@@ -19,6 +20,7 @@ function Initialize() {
 	});
 	document.querySelector("button").addEventListener("click", NewGame);
 	NewGame();
+	UpdatePlayerTurn();
 }
 
 function NewGame() {
@@ -93,8 +95,14 @@ function UpdatePlayerMove(event) {
 	}
 }
 
+function UpdatePlayerTurn() {
+	turnDisplay.innerText = playerTurn;
+}
+
 function NextTurn() {
 	playerTurn = playerTurn == xTurn ? oTurn : xTurn;
+
+	UpdatePlayerTurn();
 }
 
 function isWin() {
