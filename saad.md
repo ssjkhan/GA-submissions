@@ -5,11 +5,11 @@
 ###
 
 - [JS Arrays](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-arrays/soln.js)
-- [CSS Selectors]()
+- [CSS Selectors](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-selectors)
 - [JS Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-functions/soln.js)
-- [Dom Practice]()
-- [Tic-Tac-Toe]()
-- [CSS Flexbox]()
+- [Dom Practice](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-dom-practice)
+- [Tic-Tac-Toe](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-tic-tac-toe)
+- [CSS Flexbox](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-flexbox-grid)
   <!-- Yes, you can use html tags in markdown! -->
 
 ### Unit 2
