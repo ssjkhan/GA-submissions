@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+	background-color: #ffe6cc;
+	font-size: 28px;
+}
+body {
+	padding: 0;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #c43b23;
+	text-decoration: none;
+}
+
+input,
+select {
+	margin: 1rem;
+	background-color: #20659c;
+}
+
+input[type="number"],
+select {
+	width: 10rem;
+}
+
+nav {
+	display: flex;
+	align-content: center;
+	padding: 2rem;
+}
+
+td {
+	height: auto;
+	min-width: 5rem;
+	width: auto;
+	padding: 1rem;
+}
+nav,
+nav > a {
+	background-color: #efb33f;
+	color: #c43b23;
+	font-size: 36px;
+	text-decoration: none;
+	margin: auto;
+}
+
+a:hover {
+	color: #20659c;
+}
+
+button {
+	background-color: #c43b23;
+}

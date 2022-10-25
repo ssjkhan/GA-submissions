@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title><%= title %></title>
+		<link
+			rel="stylesheet"
+			href="/stylesheets/style.css"
+		/>
+	</head>
+	<body>
+		<nav><a href="/add">ADD FLIGHT</a><a href="/show">SHOW FLIGHTS</a></nav>
+		<div class="flightTable">
+			<table>
+				<% flights.forEach( (flight) => { %> <%- include('flightpartial.ejs',
+				{flight: flight}) %> <%}) %>
+			</table>
+		</div>
+	</body>
+</html>
