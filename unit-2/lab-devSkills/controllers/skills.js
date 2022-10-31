@@ -23,7 +23,6 @@ function show(req, res, next) {
 }
 
 function deleteOne(req, res, next) {
-	console.log(req.params);
 	mySkills.deleteOne(req.params.skillName);
 	res.redirect("/skills");
 	return;
