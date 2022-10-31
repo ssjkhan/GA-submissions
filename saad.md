@@ -20,7 +20,7 @@
 
 - [Control Flow](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/control-flow-lab)
 - [Containers](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/containers-lab)
-- [Python Functions](link-to-lab)
+- [Python Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/py-functions-lab)
 - [Carmen Sandiego SQL](link-to-lab)
 
 ### Unit 4
