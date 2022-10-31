@@ -18,8 +18,9 @@
 
 ### Unit 3
 
-- [Control Flow](link-to-lab)
-- [Python Funcitons](link-to-lab)
+- [Control Flow](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/control-flow-lab)
+- [Containers](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/containers-lab)
+- [Python Functions](link-to-lab)
 - [Carmen Sandiego SQL](link-to-lab)
 
 ### Unit 4
