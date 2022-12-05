@@ -27,7 +27,6 @@
 
 - [React DevSkills](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-dev-skills)
 - [React Students](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-students)
-- [React Students]()
 
 ## Projects and Assessments
 
@@ -35,12 +34,22 @@
 
 - [Project 1 Repo](https://git.generalassemb.ly/jsckhan/project-1)
 - [Project 1 Live](https://pages.git.generalassemb.ly/jsckhan/project-1/)
-- [Unit 1 Asessment](https://git.generalassemb.ly/jsckhan/assessment-1)
+- [Unit 1 Assessment](https://git.generalassemb.ly/jsckhan/assessment-1)
 
 ### Unit 2
 
 - [Project 2 Repo](https://git.generalassemb.ly/jsckhan/project-2)
 - [Project 2 Live](https://draft-atlas-prototype.herokuapp.com/)
 - [Unit 2 Assessment](https://git.generalassemb.ly/jsckhan/assessment-2)
+
+## Unit 3
+
+- [Unit 3 Assessment](https://git.generalassemb.ly/jsckhan/assessment-3)
+- [Project 3](https://github.com/ssjkhan/project-3)
+
+## Unit 4
+
+- [Unit 4 Assessment]()
+- [Project 4](https://github.com/raeganmb/Project-4)
 
 ### Optional Labs
