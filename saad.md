@@ -1,6 +1,6 @@
 # Saad's SEI-TOR-55 Submissions
 
-## Labs 27/ 32 =
+## Labs 27/ 32 = 84%
 
 ### Unit 1 7/7
 
