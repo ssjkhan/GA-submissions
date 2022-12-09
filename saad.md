@@ -1,32 +1,36 @@
 # Saad's SEI-TOR-55 Submissions
 
-## Labs
+## Labs 27/ 32 =
 
-### Unit 1
+### Unit 1 7/7
 
-- [JS Arrays](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-arrays/soln.js)
-- [CSS Selectors](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-selectors)
-- [JS Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-functions/soln.js)
-- [Dom Practice](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-dom-practice)
-- [Tic-Tac-Toe](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-tic-tac-toe)
-- [CSS Flexbox](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-flexbox-grid)
+- [JS Arrays](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-arrays/soln.js) (1)
+- [CSS Selectors](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-selectors) (1)
+- [JS Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/blob/main/unit-1/lab-js-functions/soln.js) (1)
+- [Dom Practice](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-dom-practice) (2)
+- [Tic-Tac-Toe](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-tic-tac-toe) (1)
+- [CSS Flexbox](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-1/lab-css-flexbox-grid) (1)
 
-### Unit 2
+### Unit 2 5/6
 
-- [Devskills](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-2/lab-devSkills)
-- [Mongoose Flights](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-2/lab-mongoose)
+- [Devskills](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-2/lab-devSkills) (2)
+- [Mongoose Flights](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-2/lab-mongoose) (3)
+- [Promises](https://www.google.com/search?q=Javascript+Promises) DNC (1)
 
-### Unit 3
+### Unit 3 10/10
 
-- [Control Flow](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/control-flow-lab)
-- [Containers](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/containers-lab)
-- [Python Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/py-functions-lab)
-- [Carmen Sandiego SQL](link-to-lab)
+- [Control Flow](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/control-flow-lab) (1)
+- [Containers](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/containers-lab) (1)
+- [Python Functions](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/py-functions-lab) (1)
+- [Carmen Sandiego SQL](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-3/sql-lab) (1)
+- [Collector's Lab](https://github.com/ssjkhan/django-intro) (6)
 
-### Unit 4
+### Unit 4 5/9
 
-- [React DevSkills](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-dev-skills)
-- [React Students](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-students)
+- [React DevSkills](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-dev-skills) (4)
+- [React Students](https://git.generalassemb.ly/jsckhan/sei-55-submissions/tree/main/unit-4/react-students) (1)
+- [React ToDo](https://www.google.com/search?q=React+ToDo) (1) DNC
+- [React Movies](https://www.google.com/search?q=React+Movies) (3) DNC
 
 ## Projects and Assessments
 
@@ -50,6 +54,5 @@
 ## Unit 4
 
 - [Unit 4 Assessment]()
+- [Project 4 Live](https://project4-artspiration.herokuapp.com/)
 - [Project 4](https://github.com/raeganmb/Project-4)
-
-### Optional Labs
